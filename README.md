@@ -25,7 +25,7 @@ I'm a passionate developer who loves working on **Python**, **Django**, and **Po
 - 🔭 I’m currently working on improving performance for database-driven applications
 - 🌱 I’m learning more about **data processing** and **optimization techniques**
 - 💬 Ask me about Python, Django, or PostgreSQL
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [alihashemi9675@gmail.com](mailto:email@example.com)
 
 ## GitHub Stats
 
