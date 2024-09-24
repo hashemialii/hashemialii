@@ -1,6 +1,6 @@
 # Hi, I'm Ali Hashemi! 👋
 
-### Python, Django, PostgreSQL, and Grafana Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Python%2C+Django%2C+PostgreSQL%2C+and+Grafana+Developer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Open+Source+Enthusiast;Lifelong+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
 
