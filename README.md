@@ -4,17 +4,17 @@
 
 ## About Me
 
-I'm a passionate developer who loves working on **Python**, **Django**, and **PostgreSQL** projects. I'm always eager to contribute to open-source projects and constantly learning new technologies to improve my skills.
+I'm a passionate developer who loves working on **Python**, **Django**, **PostgreSQL**, and **Grafana**. I’m also highly interested in **Artificial Intelligence** and **Machine Learning**. I'm always eager to contribute to open-source projects and constantly learning new technologies to improve my skills.
 
-- 🔭 I’m currently working on improving performance for database-driven applications
-- 🌱 I’m learning more about **data processing** and **optimization techniques**
-- 💬 Ask me about Python, Django, or PostgreSQL
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 🔭 I’m currently working on **PostgreSQL** and **Grafana** while improving my **Python** and **Django** skills
+- 🌱 I’m learning more about **data processing**, **optimization techniques**, and **AI/ML**
+- 💬 Ask me about Python, Django, PostgreSQL, or AI/ML
 
 ## Connect with Me
 
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ali-hashemi-855252244/)
 - 📊 [Kaggle Profile](https://www.kaggle.com/hashemialii)
+- 📫 Email: [alihashemi9675@gmail.com](mailto:alihashemi9675@gmail.com)
 
 ## GitHub Stats
 
